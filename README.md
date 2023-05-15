@@ -2,7 +2,7 @@
 
 - 🔭 Estou participando da trilha de full stacks pelo programa desenvolve do Grupo Boticário
 - 🌱 Estudo semanal: ORM com NodeJs: API com Sequelize e MySQL / Node.js: API Rest com Express e MongoDB
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabpnavarro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
