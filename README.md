@@ -21,9 +21,9 @@
  
  <div align="center">
   <a href="https://discord.gg/fH2RBbQN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="hotmail:gabpnavarro@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail"></a>
+  <a href="https://mail.google.com/mail/u/0/?to=gabpnavarro@hotmail.com&fs=1&tf=cm"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail"></a>
   <a href="https://www.linkedin.com/in/gabpnavarro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://www.api.whatsapp.com/send?1=pt_BR&phone=55084994892695" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
+  <a href="https://api.whatsapp.com/send/?phone=5584994892695&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
   
   
