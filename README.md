@@ -1,7 +1,7 @@
 ### Oii! Sou Gabriel Navarro, programador entusiasta em Front End 👋
 
 - 🔭 Estou participando da trilha de full stacks pelo programa desenvolve do Grupo Boticário
-- 🌱 Estudo semanal: ORM com NodeJs: API com Sequelize e MySQL / Node.js: API Rest com Express e MongoDB
+- 🌱 Estudo semanal: TypeScript e React
 - 😄 Pronome: ele/dele
 
 <div align="center">
