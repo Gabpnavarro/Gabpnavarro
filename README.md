@@ -1,7 +1,7 @@
 ### Oii! Sou Gabriel Navarro, programador entusiasta em Front End 👋
 
-- 🔭 Estou participando da trilha de back end na Cubos Academy
-- 🌱 Estudo módulo 3: Interagindo com o banco de dados PostgreSQL em paralelo com o Node.js
+- 🔭 Estou participando da trilha de back end na Udemy em NestJS
+- 🌱 Estudo semanal: Programação Orientada a Objeto e TypeScript 
 - 😄 Pronome: ele/dele
 
 <div align="center">
